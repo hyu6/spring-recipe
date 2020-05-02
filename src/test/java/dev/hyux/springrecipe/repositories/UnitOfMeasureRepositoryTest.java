@@ -20,7 +20,6 @@ public class UnitOfMeasureRepositoryTest {
     UnitOfMeasureRepository unitOfMeasureRepository;
 
     @Before
-
     public void setUp() throws Exception {
     }
 

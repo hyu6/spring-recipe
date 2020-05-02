@@ -46,7 +46,6 @@ public class IndexControllerTest {
     }
 
     @Test
-
     public void getIndexPage() {
 
         // given
